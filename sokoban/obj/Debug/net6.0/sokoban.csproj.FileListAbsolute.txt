@@ -23,3 +23,9 @@ C:\Users\josep\OneDrive\Ambiente de Trabalho\escola\Lice_Jogos\Tecnicas_Dev_Jogo
 C:\Users\josep\OneDrive\Ambiente de Trabalho\escola\Lice_Jogos\Tecnicas_Dev_Jogos\aula4_Jogos\sokoban\obj\Debug\net6.0\sokoban.pdb
 C:\Users\josep\OneDrive\Ambiente de Trabalho\escola\Lice_Jogos\Tecnicas_Dev_Jogos\aula4_Jogos\sokoban\obj\Debug\net6.0\sokoban.genruntimeconfig.cache
 C:\Users\josep\OneDrive\Ambiente de Trabalho\escola\Lice_Jogos\Tecnicas_Dev_Jogos\aula4_Jogos\sokoban\obj\Debug\net6.0\ref\sokoban.dll
+C:\Users\josep\OneDrive\Ambiente de Trabalho\escola\Lice_Jogos\Tecnicas_Dev_Jogos\aula4_Jogos\sokoban\bin\Debug\net6.0\Content\Character4.xnb
+C:\Users\josep\OneDrive\Ambiente de Trabalho\escola\Lice_Jogos\Tecnicas_Dev_Jogos\aula4_Jogos\sokoban\bin\Debug\net6.0\Content\CrateDark_Brown.xnb
+C:\Users\josep\OneDrive\Ambiente de Trabalho\escola\Lice_Jogos\Tecnicas_Dev_Jogos\aula4_Jogos\sokoban\bin\Debug\net6.0\Content\EndPoint_Red.xnb
+C:\Users\josep\OneDrive\Ambiente de Trabalho\escola\Lice_Jogos\Tecnicas_Dev_Jogos\aula4_Jogos\sokoban\bin\Debug\net6.0\Content\File.xnb
+C:\Users\josep\OneDrive\Ambiente de Trabalho\escola\Lice_Jogos\Tecnicas_Dev_Jogos\aula4_Jogos\sokoban\bin\Debug\net6.0\Content\Wall_Black.xnb
+C:\Users\josep\OneDrive\Ambiente de Trabalho\escola\Lice_Jogos\Tecnicas_Dev_Jogos\aula4_Jogos\sokoban\bin\Debug\net6.0\Content\level1.txt
